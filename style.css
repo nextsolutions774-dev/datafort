@@ -131,15 +131,6 @@ a { color: var(--accent); }
 .doc p { margin: 0 0 14px; }
 .doc ul { margin: 0 0 14px; padding-left: 22px; }
 .doc li { margin-bottom: 6px; }
-.placeholder {
-  display: inline-block;
-  padding: 2px 8px;
-  border: 2px dashed var(--accent);
-  border-radius: 6px;
-  color: var(--text);
-  font-weight: 700;
-}
-
 /* 404 */
 .notfound { padding: 96px 0; text-align: center; }
 .notfound h1 { margin: 0; font-size: clamp(3rem, 14vw, 5rem); color: var(--accent); }
